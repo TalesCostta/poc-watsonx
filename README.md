@@ -1,0 +1,4 @@
+Variaveis do arquivo .env:
+WATSON_ASSISTANT_ID=
+WATSON_API_KEY=
+WATSON_API_URL=
